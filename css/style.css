@@ -170,6 +170,7 @@ color:white;
 }
 .button__section-2 > button{
     background-color: #24235C;
+	color:white;
     font-size: 18px;
     width: 240px;
     height:35px;
